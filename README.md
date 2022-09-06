@@ -22,6 +22,4 @@ Paste:
 * * * * * cd /path/to/script && ./report_node_status.sh &> /dev/null
 ```
 
-# Stake Wars: Episode III. Challenge 004
-https://github.com/near/stakewars-iii/blob/main/challenges/004.md
 
